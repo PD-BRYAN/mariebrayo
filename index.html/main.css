@@ -1,0 +1,11 @@
+#wwe {
+    font-style: italic;
+   font-stretch: ultra-expanded; 
+}
+
+#jj {
+    font-style: inherit;
+    size: 70px;
+    font-size: x-large;
+    color: blueviolet;
+}
